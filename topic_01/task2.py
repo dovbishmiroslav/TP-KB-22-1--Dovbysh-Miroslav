@@ -1,6 +1,11 @@
-st = "Hallo Wolrd"
-st = st.strip()
-cap = st.capitalize()
-tt = st.title()
-up = st.upper()
-lw = st.lower()
+str = "Hallo Wolrd"
+sti = str.strip()
+print(sti)
+cap = str.capitalize()
+print(cap)
+tt = str.title()
+print(tt)
+up = str.upper()
+print(up)
+lw = str.lower()
+print(lw)
